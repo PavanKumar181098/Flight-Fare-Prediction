@@ -1,5 +1,5 @@
 # Flight-Fare-Prediction
-#dataset: https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
+# dataset: https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 # Key features: 
 datetime datatype, label encoding and one hot encoding, randomized search cv and grid search cv, train-test model, matpotlib plots, feature elimination. extra trees regressor for feature importances. Random Forest model, XGBoost and ridge regression models and heroku 
 
